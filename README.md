@@ -5,10 +5,12 @@ Logla
 
 Phonology is almost identical to Loglan and Lojban with only a few exceptions.
 
-First, it has not yet been decided, but two new constants might be added corresponding to the `th` in English `thank` and `this`. If not that `f` and `v` will gain these sounds as acceptable pronunciations.
+First, it has not yet been decided, but two new constants might be added corresponding to the `th` in English `thank` and `this`. If not than `f` and `v` will gain these sounds as acceptable pronunciations.
 
 2. `h` is written as a letter, not as an apostrophe.
 3. `'` is used to mark a stop instead of `.`.
+
+kq ka  ky kr  ke ki  ko ku
 
 
 ## Morphology
@@ -23,7 +25,7 @@ Gisma are always in the form of `CVCCa` or `CCVCa`. Likewise three-syllable *luj
    
 Using this map has the advantage of creating a constanal redundancy, which makes it easier for listener to parse these long words.
 
-Note that *borrowed* lujva will not necessarily have a semantic deconstructions. For example `balkonni`, meaning "balcony", does not mean a balanced cone. Most words will desconstruct nicely, just not all.
+Note that *borrowed* lujva will not necessarily have a semantic deconstruction. For example `balkonni`, meaning "balcony", does not mean a balanced cone. Most words will desconstruct nicely, just not all.
 
 
 ## Vocabulary
@@ -34,14 +36,21 @@ Cmava will get a heavy make over, both to reconcile differences between Loglan a
 
 We will also consdier allowing cmavo in `cvvv` form where the second to last vowel is either `i` or `u`. This more than doubles the available cmavo space.
 
+#### Numbers
+
+do rei mi fa so la ti ?
+
 
 ### Gisma
 
+Gisma will be defined with order but also with case tags wherever applicable. For instance `klama` 
+
+The Gisma will be largey redone. Loglan and Lojban made the mistake of importing words by *mixing* the letters from words of the six most common languages. This only served to create words no one recognizes, and in the case of Lojban that sound mostly like atonal Mandarin. Instead Logla will borrow words whole, modifying them as little as possible to fit the morphology.
 
 
 ## Grammar
 
-You may have already noticed somthing is up with the last letter or gisma. They're all `a`! The reason is simple. The last letter of any word indicates the predicate slot within the word that is intended. So for example the Lojban word for come/go/travel is `klama`. Hence a `klama` is a travaller, a `klame` is a destination of travel, `klami` is an origin of travel, `klamo` is the route travelled, and a `klamu` is the means of travel.
+You may have already noticed somthing is up with the last letter or gisma. They're all `a`! The reason is simple. The last letter of any word indicates the predicate slot within the word that is intended. So for example the Lojban word for come/go/travel is `klama`. Hence a *klama* is a travaller, a *klame* is a destination of travel, a *klami* is an origin of travel, a *klamo* is a route travelled, and a *klamu* is a mode of transport.
 
 
 

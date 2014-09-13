@@ -31,7 +31,9 @@ See the wiki page for a more detailed list.
 
 Currently the Logla consists of two widely divergent dialects: the original Loglan and its rebel progeny Lojban. Hence much of the initial activity will center around reconciling these two into a single mainline language. Every aspect of this process will be put under the microscope and in some cases the result may be unlike either of the two source languages, should they both prove deficient in some specific area.
 
-Running parallel to this reconciliation, the floor is open to all new ideas. There is nothing too radical or too minor that it should not be given due consideration. Decisions will be made through thorough debate, general consensus and ultimately by unanimous confirmation of a three person supervisory committee.
+Running parallel to this reconciliation, the floor is open to all new ideas. There is nothing too radical or too minor that it should not be given due consideration. Decisions will be made through thorough debate, general consensus and ultimately by unanimous confirmation of a supervisory committee.
+
+Bylaws remain to be written, but the basic outline is as follows: A three or five person board oversees language development. These board members take up proposals and incorporate them on unanimous consensus. A *body elective* made up of members of the general populous can override the board with a super-majority vote.
 
 
 ## History

@@ -1,5 +1,5 @@
-Logla
-====
+Logla Prime
+===========
 
 The Logos Initiative is an organizational fork of the The Loglan Institute (TLI) and the Logical Language Group (LLG) and their respective Loglan and Lojban languages. The Initiative has been created for the purpose of reconciling the differences between these two languages, to create a new hybrid language called *Logla Prime*, and then manage the natural never ending process of evolution of this language. The overarching goal is to continue the original, if only implicit, mission set out by the the two prior projects: the perfection of human language.
 

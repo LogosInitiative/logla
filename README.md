@@ -51,3 +51,11 @@ The LLG on the other hand has moved in another direction. The Logical Language G
 With such purpose one could be forgiven for expecting the Lojban language to hotbed of language experimentation and exploration. Ironically nothing could be further from the truth. Lojban was *baselined* in 1997 for a period of five years. But the baseline has since become a defacto freeze. While still giving an ear to proposals, the language is no longer evolving. Put simply, the LLG's purpose has changed. It now exists "to preserve the investment people have made in learning the language".
 
 So on the one hand we have a sequestered research language inaccessible to the populous at large, and on the other a language that is no longer evolving. For this reason the Logos Initiative and the Logla language have been created.
+
+
+## FAQ
+
+**Q. Why not start with Loglan or Lojban as a baseline and modify it, instead of starting from scratch?**
+
+A. First, it gives us greater liberty to reconsider some of the early design decisions. Second, we want to reconcile the two camps as much as possible. Starting with one or the other would undermine that goal.
+

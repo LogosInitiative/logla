@@ -3,11 +3,11 @@ Logla Prime
 
 The Logos Initiative is an organizational fork of the The Loglan Institute (TLI) and the Logical Language Group (LLG) and their respective Loglan and Lojban languages. The Initiative has been created for the purpose of reconciling the differences between these two languages, to create a new hybrid language called *Logla Prime*, and then manage the natural never ending process of evolution of this language. The overarching goal is to continue the original, if only implicit, mission set out by the the two prior projects: the perfection of human language.
 
-Unlike Loglan, the Logla is 100% open source, all material is copyleft, and anyone can participate in development of the language. Unlike Lojban, the Logla is a living changing language. Dialects (variant Logla) are warmly welcomed. The best features of dialects may find there way to the mainline language. Changes to the mainline language are decided by long and rigorous debate, and finally unanimous consensus between supervisory chairs.
+Unlike Loglan, the Logla is 100% open source, all material is copyleft, and anyone can participate in development of the language. Unlike Lojban, the Logla is a dynamic changing language. Dialects (variant Logla) are warmly welcomed. The best features of dialects may find there way to the mainline language. Changes to the mainline language are decided by long and rigorous debate, and ultimately by unanimous approval of supervisory chairs.
 
 Github project management tools will play an important part in the language's development. The issue tracker will be used to propose and debate ideas. And the Github's wiki will be used to write up detailed formal proposals as needed.
 
-As the language evolves, infrequent but periodic baselines will be established. These will be considered complete dialects of the language and given specific names. These baselines can then evolve on their own if enough people are invested in them.
+As the language evolves, baselines will be established as required. These will be considered complete dialects of the language and given specific names. These baselines can then evolve on their own if enough people are invested in them.
 
 
 ## Principles
@@ -15,7 +15,7 @@ As the language evolves, infrequent but periodic baselines will be established. 
 1. Strive for perfection in human communication.
 2. Seek greater simplicity to ease learning and promote productive usage.
 3. Use common patterns within the language's design wherever possible.
-4. Seek concision without complexity. 
+4. Seek concision without complexity to expend expressiveness.
 
 
 ## Current Goals
@@ -29,7 +29,7 @@ The goal listed in bold is the primary goal at this time. See the wiki page for 
 
 ## Status
 
-Currently the Logla consists of two widely divergent dialects: the original Loglan and its rebel progeny Lojban. Hence much of the initial activity will center around reconciling these two into a single mainline language. Every aspect of this process will be put under the microscope and in some cases the result may be unlike either of the two source languages, should they both prove deficient in some specific area.
+Currently the Logla consists of two widely divergent dialects: the original Loglan and its progeny Lojban. Hence much of the initial activity will center around reconciling these two into a single mainline language. Every aspect of this process will be put under scrutiny and in some cases the result may be unlike either of the two source languages, should they both prove deficient in some area.
 
 Running parallel to this reconciliation, the floor is open to all new ideas. There is nothing too radical or too minor that it should not be given due consideration. Decisions will be made through thorough debate, general consensus and ultimately by unanimous confirmation of a supervisory committee.
 
@@ -42,7 +42,7 @@ James Cooke Brown began work on Loglan in 1955, originally devised to test the S
 
 In the 1980s disputes broke out over control of the language. Bob LeChevalier and a group of fellow Loglanists formed the Logical Language Group (LLG) to create a new language called Lojban along the same basic design principles, but with the intention to make it more widely available and encourage its use as a real language.
 
-TLI has been true to its charter and has continued to evolve, albeit slowly. It remains however, squarely in the hands of academia.
+TLI has been true to its charter and has continued to evolve, albeit very slowly. It remains however, squarely in the hands of academia.
 
 The LLG on the other hand has moved in another direction. The Logical Language Group's Bylaws states its purpose as follows:
 

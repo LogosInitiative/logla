@@ -12,19 +12,23 @@ As the language evolves, baselines will be established as required. These will b
 
 ## Principles
 
+While still a work in progress, this list provides an outline of the principles by which the work is guided.
+
 1. Strive for perfection in human communication.
-2. Seek greater simplicity to ease learning and promote productive usage.
-3. Use common patterns within the language's design wherever possible.
-4. Seek concision without complexity to expend expressiveness.
+2. Seek concision without complexity to expend expressiveness.
+3. Seek greater simplicity to ease learning and promote productive usage.
+4. Use common patterns within the language's design wherever possible.
 
 
 ## Current Goals
+
+The goal listed in bold is the primary goal at this time --but not to the exclusion of other goals because they may have cross-interactactions.
 
 1. **Review the phonology**.
 2. Optimize the morphology.
 3. Build a unified vocabulary.
 
-The goal listed in bold is the primary goal at this time. See the wiki page for a more detailed list.
+See the wiki page for a more detailed list.
 
 
 ## Status
@@ -42,7 +46,7 @@ James Cooke Brown began work on Loglan in 1955, originally devised to test the S
 
 In the 1980s disputes broke out over control of the language. Bob LeChevalier and a group of fellow Loglanists formed the Logical Language Group (LLG) to create a new language called Lojban along the same basic design principles, but with the intention to make it more widely available and encourage its use as a real language.
 
-TLI has been true to its charter and has continued to evolve, albeit very slowly. It remains however, squarely in the hands of academia.
+TLI has remained true to its purpose. Loglan is a research instrument, and has continued to evolve as such (albeit very slowly). It remains, however, squarely in the hands of academia.
 
 The LLG on the other hand has moved in another direction. The Logical Language Group's Bylaws states its purpose as follows:
 
@@ -57,5 +61,5 @@ So on the one hand we have a sequestered research language inaccessible to the p
 
 **Q. Why not start with Loglan or Lojban as a baseline and modify it, instead of starting from scratch?**
 
-A. First, it gives us greater liberty to reconsider some of the early design decisions. Second, we want to reconcile the two camps as much as possible. Starting with one or the other would undermine that goal.
+A. First, it gives us greater liberty to reconsider some of the early design decisions. Second, we want to reconcile the two camps as much as possible. Starting with one language or the other would undermine that goal.
 

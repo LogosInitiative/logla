@@ -20,11 +20,11 @@ As the language evolves, infrequent but periodic baselines will be established. 
 
 ## Current Goals
 
-1. Review the phonology.
+1. **Review the phonology**.
 2. Optimize the morphology.
 3. Build a unified vocabulary.
 
-See the wiki page for a more detailed list.
+The goal listed in bold is the primary goal at this time. See the wiki page for a more detailed list.
 
 
 ## Status

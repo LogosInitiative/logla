@@ -20,6 +20,13 @@ While still a work in progress, this list provides an outline of the principles 
 4. Use common patterns within the language's design wherever possible.
 
 
+## Participation
+
+Discussions about Logla Prime and the Logos Initiave are held on the [Logla Mailing List](https://groups.google.com/forum/#!forum/logla).
+
+All proposals are to be submitted via this projects [issue tracker](http://github.com/LogosInitiative/logla/issues). Note that it's geernally a good idea to vet a proposal first on the mailing list.
+
+
 ## Current Goals
 
 The goal listed in bold is the primary goal at this time --but not to the exclusion of other goals because they may have cross-interactactions.
